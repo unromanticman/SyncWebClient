@@ -15,3 +15,5 @@ Stable:AndroidSdkVersion >= 19
  SyncWebClient client = new SyncWebClient(getActivity());
  String rs = client.get(<b>"http://www.google.com.tw"</b>);
 </pre>
+### Screenshot
+<img width="750" src="https://github.com/unromanticman/SyncWebClient/blob/master/screenshot.png?raw=true">
