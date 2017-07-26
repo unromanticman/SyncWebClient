@@ -19,4 +19,4 @@ Stable:AndroidSdkVersion >= 19
 <img width="750" src="https://github.com/unromanticman/SyncWebClient/blob/master/screenshot.png?raw=true">  
 
 ## License  
-SuperWebClient is licensed under The MIT License (MIT).
+SyncWebClient is licensed under The MIT License (MIT).
