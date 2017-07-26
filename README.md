@@ -7,7 +7,7 @@ Stable:AndroidSdkVersion >= 19
 1.download two jar
 <ul><li>jsoup.jar</li><li>SyncWebClient.jar</li>
 </ul>
-2.put jsoup.jar、SyncWebClient.jar into app libs folder
+2.put jsoup.jar、SyncWebClient.jar into app libs folder  
 <pre>/app/libs</pre>  
 
 ### Useage 
