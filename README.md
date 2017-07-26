@@ -5,10 +5,10 @@ A WebClient , It can request GET method and don't need runnable and Thread.
 Stable:AndroidSdkVersion >= 19
 ### Install 
 1.download two jar
-<li>
-<ul>jsoup.jar </ul>
-<ul>SyncWebClient.jar  </ul>
-</li>
+<ul>
+　<li>jsoup.jar</li>
+　<li>SyncWebClient.jar</li>
+</ul>
 2.put jsoup.jar、SyncWebClient.jar into app libs folder
 <pre>/app/libs</pre>
 
